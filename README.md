@@ -1,8 +1,6 @@
 # Lista zadań
 Aplikacja do zarządzania zadaniami
-## Właściwości
+It uses HTML5 and CSS3
+# Właściwości
 * Lista zadań
-* Lista rzeczy do zrobienia
-* Trzecia lista
-* Czwarte zadanie
-* Piąte zadanie
+
